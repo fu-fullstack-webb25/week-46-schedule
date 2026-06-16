@@ -1,5 +1,5 @@
-# Schema, vecka 22
-###### Backend med Node.js, vecka 3 av 5
+# Schema, vecka 46
+###### Fullstack webbapplikation med TypeScript, vecka 2 av 7
 
 ## Introduktion
 
