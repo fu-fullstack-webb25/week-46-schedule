@@ -18,13 +18,12 @@ Veckan avslutas med en introduktion till det kommande grupprojektet, där vi gå
 4. Hantera credentials och känslig information säkert.
 5. Integrera en extern betallösning i en fullstackapplikation.
 6. Planera ett utvecklingsprojekt med Git och Scrum.
-7. 
 
 ## Resurser
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [Webbsäkerhet](https://docs.google.com/presentation/d/10pcmimZ8_UcAzQNLBzIoOl8DRwrOAnzM/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -34,13 +33,9 @@ Veckan avslutas med en introduktion till det kommande grupprojektet, där vi gå
 
 * []()
 
-### Filmer
-
-
 ### Länkar
 
-* []()
+* [Stripe](https://stripe.com/se)
 
-### Övningar 
 
 
