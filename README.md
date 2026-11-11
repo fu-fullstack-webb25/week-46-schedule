@@ -27,11 +27,12 @@ Veckan avslutas med en introduktion till det kommande grupprojektet, där vi gå
 
 ### Inspelade föreläsningar
 
-* []()
+* [11 nov, förmiddag](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBRAewqtysHQa3kOJsobr5nAWKEO-qY2Qq9BLqKjRApvtU?e=VLegTr)
+* [11 nov, eftermiddag]()
 
 ### Lektionsrepon
 
-* []()
+* [11 nov](https://github.com/fu-fullstack-webb25/week-46-lecture-11-nov)
 
 ### Länkar
 
