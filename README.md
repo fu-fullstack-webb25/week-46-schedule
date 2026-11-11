@@ -28,7 +28,7 @@ Veckan avslutas med en introduktion till det kommande grupprojektet, där vi gå
 ### Inspelade föreläsningar
 
 * [11 nov, förmiddag](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBRAewqtysHQa3kOJsobr5nAWKEO-qY2Qq9BLqKjRApvtU?e=VLegTr)
-* [11 nov, eftermiddag]()
+* [11 nov, eftermiddag](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBck9JB98IuRKl0Mvz5qh75AXAYBlXLzPkVXT_AVSXHZUo?e=W08xrl)
 
 ### Lektionsrepon
 
